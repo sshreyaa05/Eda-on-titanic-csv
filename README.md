@@ -2,7 +2,7 @@
 ## PROBLEM STATEMENT :
 This project is based on the shipwreck incident that helps us to analyse and summarize the dataset to better understand their main characteristics, 
 relationships between variables, and potential patterns.
-## AS IT GIVES 
+## AS IT GIVES THE FOLLOWING INSIGHTS FROM THE DATA, ITS IMPORTANT TO CONDUCT COMPREHENSIVE EDA ON THIS DATASET:
 ## 1. What are the percentage of people survived and not survived ?
 ![image](https://github.com/sshreyaa05/Eda-on-titanic-csv/assets/132264752/055f5be0-9b55-40d9-8684-6357a0a80fff)
 ## result:
@@ -49,7 +49,7 @@ relationships between variables, and potential patterns.
 ## from here we can draw a conclusion about the average age of the people who were alive(yes) and were not alive(no)
 ## no : 30.028233
 ## yes : 28.291433.
-
+## IN THIS WAY WE CONDUCT AN EXPLORATORY DATA ANALYSIS ON TITANIC DATASET.
 
 
 
