@@ -1,7 +1,8 @@
 # Eda-on-titanic-csv
-Based on a shipwreck incident
+## PROBLEM STATEMENT :
 This project is based on the shipwreck incident that helps us to analyse and summarize the dataset to better understand their main characteristics, 
 relationships between variables, and potential patterns.
+## AS IT GIVES 
 ## 1. What are the percentage of people survived and not survived ?
 ![image](https://github.com/sshreyaa05/Eda-on-titanic-csv/assets/132264752/055f5be0-9b55-40d9-8684-6357a0a80fff)
 ## result:
